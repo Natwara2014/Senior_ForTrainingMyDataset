@@ -40,7 +40,7 @@ def class_text_to_int(row_label):
     elif row_label == 'mobile phone':
         return 5
     else:
-        return None
+        return 0
 
 
 def split(df, group):
