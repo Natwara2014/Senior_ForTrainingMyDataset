@@ -35,7 +35,7 @@ def class_text_to_int(row_label):
         return 2
     elif row_label == 'shoulder bag':
         return 3
-    elif row_label == 'bag':
+    elif row_label == 'plastic bag':
         return 4
     elif row_label == 'mobile phone':
         return 5
