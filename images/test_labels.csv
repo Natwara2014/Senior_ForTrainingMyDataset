@@ -1,0 +1,43 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+test_1.jpg,640,480,luggage,475,368,548,466
+test_1.jpg,640,480,luggage,428,355,510,410
+test_1.jpg,640,480,luggage,344,297,375,330
+test_1.jpg,640,480,luggage,487,308,519,360
+test_1.jpg,640,480,luggage,533,293,579,342
+test_1.jpg,640,480,backpack,238,276,255,293
+test_1.jpg,640,480,backpack,331,265,348,288
+test_1.jpg,640,480,luggage,380,281,400,314
+test_1.jpg,640,480,luggage,431,302,486,340
+test_1.jpg,640,480,luggage,290,284,317,316
+test_1.jpg,640,480,mobile phone,610,305,626,317
+test_1.jpg,640,480,plastic bag,445,334,491,360
+test_1.jpg,640,480,backpack,334,266,346,287
+test_10.jpg,1200,1200,backpack,95,102,1032,1039
+Test_11.jpg,600,600,backpack,68,150,518,600
+test_12.jpg,1200,1739,backpack,251,363,1143,1255
+test_13.jpg,283,178,plastic bag,155,31,283,159
+test_13.jpg,283,178,plastic bag,1,41,135,176
+test_14.jpg,275,183,plastic bag,11,43,141,173
+test_14.jpg,275,183,plastic bag,152,32,275,154
+test_15.jpg,275,183,plastic bag,52,56,178,183
+test_2.jpg,1477,985,backpack,475,393,565,547
+test_2.jpg,1477,985,backpack,217,371,333,523
+test_2.jpg,1477,985,backpack,95,557,306,841
+test_2.jpg,1477,985,backpack,352,586,508,888
+test_2.jpg,1477,985,luggage,612,729,814,881
+test_2.jpg,1477,985,luggage,677,676,905,792
+test_2.jpg,1477,985,luggage,623,777,927,909
+test_2.jpg,1477,985,shoulder bag,921,432,1041,643
+test_2.jpg,1477,985,shoulder bag,1126,701,1477,916
+test_2.jpg,1477,985,plastic bag,2,487,114,632
+test_2.jpg,1477,985,luggage,325,549,433,624
+test_2.jpg,1477,985,luggage,584,518,792,642
+test_3.jpg,259,194,luggage,1,31,149,180
+test_3.jpg,259,194,luggage,40,5,210,175
+test_3.jpg,259,194,luggage,95,7,259,171
+test_4.jpg,226,223,luggage,13,12,215,214
+test_5.jpg,225,225,luggage,26,16,212,202
+test_6.jpg,1040,1040,shoulder bag,114,41,1040,966
+test_7.jpg,275,183,shoulder bag,59,14,192,147
+test_8.jpg,225,225,shoulder bag,16,10,202,196
+test_9.jpg,239,211,shoulder bag,13,12,209,208
