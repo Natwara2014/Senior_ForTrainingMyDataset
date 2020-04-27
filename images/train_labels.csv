@@ -1,0 +1,423 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+train_1.jpg,632,420,luggage,269,200,305,284
+train_1.jpg,632,420,luggage,307,210,358,287
+train_1.jpg,632,420,luggage,330,310,406,397
+train_1.jpg,632,420,luggage,570,231,625,340
+train_1.jpg,632,420,luggage,143,179,181,231
+train_1.jpg,632,420,luggage,439,221,480,284
+train_1.jpg,632,420,luggage,577,203,632,230
+train_1.jpg,632,420,luggage,598,227,630,286
+train_1.jpg,632,420,shoulder bag,32,149,94,211
+train_1.jpg,632,420,shoulder bag,204,132,238,164
+train_1.jpg,632,420,backpack,238,150,269,191
+train_1.jpg,632,420,backpack,420,135,441,191
+train_1.jpg,632,420,luggage,209,220,254,257
+train_1.jpg,632,420,luggage,575,171,622,205
+train_1.jpg,632,420,luggage,1,199,43,239
+train_1.jpg,632,420,mobile phone,402,188,417,206
+train_1.jpg,632,420,mobile phone,549,178,568,193
+train_1.jpg,632,420,mobile phone,276,167,295,178
+train_1.jpg,632,420,mobile phone,510,161,518,175
+train_10.jpg,1024,512,backpack,359,162,698,501
+train_100.jpg,640,640,backpack,54,315,343,640
+train_101.jpg,3000,2004,backpack,519,899,1153,1843
+train_101.jpg,3000,2004,backpack,1673,772,2312,1791
+train_102.jpg,635,409,backpack,32,190,126,289
+train_102.jpg,635,409,backpack,183,146,261,244
+train_102.jpg,635,409,backpack,287,155,375,261
+train_102.jpg,635,409,backpack,417,135,505,233
+train_102.jpg,635,409,backpack,514,143,602,242
+train_103.jpg,728,500,backpack,56,129,188,274
+train_103.jpg,728,500,backpack,284,154,419,309
+train_103.jpg,728,500,backpack,390,279,492,384
+train_103.jpg,728,500,backpack,518,121,653,269
+train_103.jpg,728,500,backpack,660,149,708,264
+train_104.jpg,900,600,backpack,620,178,783,420
+train_105.jpg,1000,667,backpack,603,124,788,449
+train_106.jpg,183,275,backpack,48,121,152,269
+train_107.jpg,599,528,backpack,212,186,401,502
+train_108.jpg,628,434,backpack,293,146,475,399
+train_109.jpg,1000,1250,backpack,318,418,761,1105
+train_11.jpg,600,600,backpack,49,47,572,570
+train_110.jpg,970,1300,backpack,337,702,588,1108
+train_111.jpg,640,514,backpack,69,133,160,254
+train_111.jpg,640,514,backpack,270,183,355,319
+train_111.jpg,640,514,backpack,478,147,570,289
+train_112.jpg,1000,667,backpack,180,176,287,288
+train_112.jpg,1000,667,backpack,318,180,422,302
+train_112.jpg,1000,667,backpack,417,178,549,324
+train_112.jpg,1000,667,backpack,582,166,691,308
+train_112.jpg,1000,667,backpack,720,186,849,345
+train_113.jpg,4279,2803,backpack,189,519,759,1493
+train_113.jpg,4279,2803,backpack,815,426,1493,1430
+train_113.jpg,4279,2803,backpack,1370,634,1744,1508
+train_113.jpg,4279,2803,backpack,1800,508,2433,1501
+train_113.jpg,4279,2803,backpack,2341,749,2759,1560
+train_113.jpg,4279,2803,backpack,2926,552,3533,1415
+train_113.jpg,4279,2803,backpack,3463,530,3896,1430
+train_114.jpg,800,533,backpack,497,201,699,497
+train_115.jpg,1000,667,backpack,194,144,449,552
+train_116.jpg,600,338,backpack,241,99,341,237
+train_117.jpg,1500,1121,backpack,184,330,490,849
+train_118.jpg,626,937,backpack,326,459,409,575
+train_119.jpg,1000,667,backpack,237,233,342,367
+train_119.jpg,1000,667,backpack,447,177,555,343
+train_119.jpg,1000,667,backpack,632,272,733,405
+train_12.jpg,600,900,backpack,61,280,589,808
+train_120.jpg,1300,866,backpack,597,231,731,481
+train_120.jpg,1300,866,backpack,878,40,1048,452
+train_121.jpg,1300,866,backpack,617,402,766,590
+train_121.jpg,1300,866,backpack,908,404,1056,575
+train_122.jpg,1280,720,backpack,472,158,694,407
+train_122.jpg,1280,720,backpack,831,137,1038,468
+train_123.jpg,600,280,backpack,23,127,76,240
+train_123.jpg,600,280,backpack,77,128,160,258
+train_123.jpg,600,280,backpack,169,104,276,280
+train_123.jpg,600,280,backpack,336,66,507,280
+train_124.jpg,1300,967,backpack,95,316,269,539
+train_124.jpg,1300,967,backpack,305,327,472,559
+train_124.jpg,1300,967,backpack,557,334,725,555
+train_124.jpg,1300,967,backpack,849,308,1004,516
+train_124.jpg,1300,967,backpack,1049,364,1204,584
+train_125.jpg,1300,866,shoulder bag,348,5,651,464
+train_125.jpg,1300,866,luggage,541,280,833,779
+train_125.jpg,1300,866,luggage,954,504,1037,630
+train_125.jpg,1300,866,shoulder bag,883,418,940,530
+train_125.jpg,1300,866,backpack,774,438,843,518
+train_126.jpg,1000,1620,mobile phone,427,156,496,246
+train_126.jpg,1000,1620,shoulder bag,619,249,926,858
+train_127.jpg,626,417,shoulder bag,328,191,398,302
+train_127.jpg,626,417,shoulder bag,354,293,418,370
+train_127.jpg,626,417,luggage,353,291,418,417
+train_128.jpg,1300,956,mobile phone,85,499,104,518
+train_128.jpg,1300,956,shoulder bag,482,442,629,589
+train_128.jpg,1300,956,backpack,690,476,797,583
+train_128.jpg,1300,956,backpack,445,575,585,715
+train_128.jpg,1300,956,shoulder bag,330,470,381,521
+train_128.jpg,1300,956,luggage,323,506,411,594
+train_129.jpg,1063,1700,shoulder bag,92,924,182,1014
+train_129.jpg,1063,1700,shoulder bag,366,797,701,1132
+train_129.jpg,1063,1700,luggage,498,1023,1061,1585
+train_13.jpg,1200,675,backpack,635,201,1049,615
+train_130.jpg,500,334,shoulder bag,93,67,306,280
+train_130.jpg,500,334,luggage,236,44,472,280
+train_131.jpg,482,750,shoulder bag,258,370,469,581
+train_131.jpg,482,750,shoulder bag,127,315,298,486
+train_131.jpg,482,750,luggage,135,466,308,639
+train_132.jpg,512,384,shoulder bag,232,144,318,230
+train_132.jpg,512,384,shoulder bag,106,137,176,207
+train_132.jpg,512,384,shoulder bag,300,136,442,278
+train_132.jpg,512,384,luggage,197,221,328,352
+train_133.jpg,1300,956,shoulder bag,405,328,749,672
+train_133.jpg,1300,956,backpack,12,463,84,535
+train_134.jpg,866,1390,shoulder bag,365,417,616,668
+train_134.jpg,866,1390,shoulder bag,26,583,403,960
+train_134.jpg,866,1390,shoulder bag,738,455,866,582
+train_134.jpg,866,1390,luggage,1,777,480,1258
+train_135.jpg,299,470,shoulder bag,46,125,217,418
+train_136.jpg,1200,800,mobile phone,352,255,408,303
+train_136.jpg,1200,800,shoulder bag,145,284,443,601
+train_136.jpg,1200,800,luggage,575,410,778,676
+train_137.jpg,434,650,luggage,37,331,154,473
+train_137.jpg,434,650,shoulder bag,122,196,191,353
+train_137.jpg,434,650,shoulder bag,255,225,300,338
+train_138.jpg,1300,957,luggage,379,423,575,764
+train_138.jpg,1300,957,shoulder bag,635,237,759,443
+train_138.jpg,1300,957,shoulder bag,669,414,850,609
+train_138.jpg,1300,957,luggage,832,381,1021,748
+train_139.jpg,512,329,backpack,140,144,235,265
+train_139.jpg,512,329,shoulder bag,279,107,407,318
+train_139.jpg,512,329,luggage,34,170,167,325
+train_139.jpg,512,329,shoulder bag,101,242,275,329
+train_14.jpg,872,872,shoulder bag,171,216,762,807
+train_140.jpg,3500,2525,shoulder bag,112,646,1062,2525
+train_140.jpg,3500,2525,luggage,782,1797,1693,2513
+train_141.jpg,800,800,shoulder bag,167,2,658,773
+train_141.jpg,800,800,luggage,505,315,798,797
+train_142.jpg,929,1336,mobile phone,406,498,581,718
+train_142.jpg,929,1336,shoulder bag,339,855,890,1310
+train_143.jpg,1300,866,shoulder bag,879,293,1183,830
+train_144.jpg,320,320,shoulder bag,25,49,142,234
+train_144.jpg,320,320,mobile phone,148,101,166,124
+train_145.jpg,600,883,shoulder bag,30,29,555,816
+train_146.jpg,512,342,shoulder bag,293,208,368,297
+train_146.jpg,512,342,luggage,327,187,470,342
+train_147.jpg,500,750,shoulder bag,20,166,207,462
+train_148.jpg,726,1000,shoulder bag,41,499,409,855
+train_149.jpg,444,594,shoulder bag,28,313,230,522
+train_15.jpg,800,1067,shoulder bag,76,265,694,883
+train_150.jpg,800,450,shoulder bag,335,107,422,329
+train_150.jpg,800,450,backpack,184,348,212,388
+train_151.jpg,600,400,shoulder bag,50,147,152,392
+train_152.jpg,750,450,shoulder bag,521,125,750,449
+train_153.jpg,1023,682,luggage,324,366,518,630
+train_153.jpg,1023,682,luggage,537,356,704,606
+train_153.jpg,1023,682,shoulder bag,709,363,829,572
+train_153.jpg,1023,682,backpack,390,98,488,329
+train_154.jpg,400,225,shoulder bag,81,4,202,201
+train_155.jpg,874,1024,shoulder bag,15,357,524,966
+train_155.jpg,874,1024,shoulder bag,448,1,870,507
+train_156.jpg,416,594,shoulder bag,34,157,256,406
+train_157.jpg,1000,1356,shoulder bag,578,727,775,1009
+train_157.jpg,1000,1356,shoulder bag,64,650,481,1331
+train_157.jpg,1000,1356,plastic bag,1,747,209,1350
+train_157.jpg,1000,1356,plastic bag,816,584,1000,900
+train_158.jpg,612,408,luggage,94,149,233,315
+train_158.jpg,612,408,luggage,312,185,420,350
+train_158.jpg,612,408,shoulder bag,257,1,410,172
+train_159.jpg,406,470,shoulder bag,45,102,172,351
+train_16.jpg,390,585,shoulder bag,4,137,386,519
+train_160.jpg,341,512,shoulder bag,7,1,194,182
+train_160.jpg,341,512,shoulder bag,5,132,339,347
+train_160.jpg,341,512,luggage,17,73,271,511
+train_161.jpg,450,470,shoulder bag,79,145,267,322
+train_161.jpg,450,470,luggage,8,268,306,449
+train_162.jpg,180,279,shoulder bag,26,89,148,192
+train_163.jpg,849,1000,shoulder bag,87,377,289,591
+train_163.jpg,849,1000,shoulder bag,532,531,817,797
+train_163.jpg,849,1000,luggage,419,505,800,843
+train_164.jpg,450,450,shoulder bag,123,106,324,377
+train_165.jpg,682,1024,shoulder bag,126,313,443,956
+train_166.jpg,392,600,shoulder bag,204,203,353,547
+train_167.jpg,662,993,shoulder bag,269,195,418,539
+train_167.jpg,662,993,shoulder bag,577,499,662,667
+train_167.jpg,662,993,luggage,446,512,662,888
+train_168.jpg,1300,1066,luggage,107,673,265,943
+train_168.jpg,1300,1066,shoulder bag,249,488,421,772
+train_168.jpg,1300,1066,shoulder bag,367,663,469,867
+train_169.jpg,1300,964,backpack,269,561,309,622
+train_169.jpg,1300,964,luggage,262,612,318,684
+train_169.jpg,1300,964,luggage,712,625,756,675
+train_169.jpg,1300,964,shoulder bag,713,598,759,630
+train_169.jpg,1300,964,shoulder bag,714,573,756,614
+train_169.jpg,1300,964,luggage,832,609,926,705
+train_169.jpg,1300,964,backpack,820,530,876,613
+train_169.jpg,1300,964,plastic bag,929,580,974,658
+train_169.jpg,1300,964,plastic bag,878,564,909,632
+train_17.jpg,967,1200,shoulder bag,236,52,784,600
+train_170.jpg,866,1390,shoulder bag,516,824,644,1041
+train_171.jpg,550,807,mobile phone,113,208,164,254
+train_171.jpg,550,807,shoulder bag,127,148,376,485
+train_171.jpg,550,807,shoulder bag,272,388,502,580
+train_171.jpg,550,807,luggage,291,380,543,757
+train_172.jpg,586,357,shoulder bag,4,108,77,185
+train_172.jpg,586,357,shoulder bag,148,148,263,279
+train_172.jpg,586,357,shoulder bag,312,163,362,259
+train_172.jpg,586,357,shoulder bag,467,228,532,311
+train_173.jpg,620,478,shoulder bag,105,251,202,370
+train_173.jpg,620,478,shoulder bag,340,153,446,331
+train_173.jpg,620,478,shoulder bag,526,137,611,263
+train_173.jpg,620,478,backpack,465,145,529,286
+train_174.jpg,608,342,backpack,65,202,123,244
+train_174.jpg,608,342,shoulder bag,192,213,267,341
+train_174.jpg,608,342,backpack,410,174,435,212
+train_174.jpg,608,342,luggage,276,198,311,258
+train_174.jpg,608,342,backpack,479,204,516,295
+train_174.jpg,608,342,shoulder bag,446,204,481,300
+train_174.jpg,608,342,plastic bag,422,251,462,337
+train_174.jpg,608,342,luggage,420,190,443,238
+train_18.jpg,1200,1575,shoulder bag,74,463,1084,1473
+train_19.jpg,1020,576,plastic bag,329,45,827,543
+train_19.jpg,1020,576,shoulder bag,1,12,563,574
+train_2.jpg,4000,3000,luggage,76,1951,402,2605
+train_2.jpg,4000,3000,luggage,1047,2167,1463,3000
+train_2.jpg,4000,3000,luggage,1746,2525,2266,3000
+train_2.jpg,4000,3000,luggage,3140,2144,3379,2457
+train_2.jpg,4000,3000,luggage,8,2118,269,2412
+train_2.jpg,4000,3000,shoulder bag,8,1999,256,2170
+train_2.jpg,4000,3000,shoulder bag,408,1822,798,2412
+train_2.jpg,4000,3000,shoulder bag,1143,1915,1495,2473
+train_2.jpg,4000,3000,shoulder bag,1424,1896,1621,2331
+train_2.jpg,4000,3000,shoulder bag,2963,1783,3072,1986
+train_2.jpg,4000,3000,shoulder bag,3353,1860,3498,2318
+train_2.jpg,4000,3000,shoulder bag,1989,1751,2082,1915
+train_2.jpg,4000,3000,backpack,2431,1786,2860,2586
+train_2.jpg,4000,3000,backpack,911,1970,1147,2389
+train_2.jpg,4000,3000,backpack,3324,1799,3495,2112
+train_2.jpg,4000,3000,backpack,3163,1754,3289,1996
+train_2.jpg,4000,3000,backpack,3072,1718,3224,1899
+train_2.jpg,4000,3000,luggage,3150,2038,3247,2125
+train_2.jpg,4000,3000,mobile phone,634,1744,734,1822
+train_2.jpg,4000,3000,mobile phone,382,1844,469,1883
+train_2.jpg,4000,3000,bag,1343,2705,1747,3000
+train_2.jpg,4000,3000,backpack,1176,2531,1537,2915
+train_20.jpg,992,558,plastic bag,353,235,643,525
+train_20.jpg,992,558,plastic bag,675,245,927,497
+train_20.jpg,992,558,plastic bag,636,202,992,558
+train_21.jpg,350,200,plastic bag,60,52,162,154
+train_22.jpg,640,360,plastic bag,27,208,179,360
+train_22.jpg,640,360,plastic bag,215,195,344,324
+train_22.jpg,640,360,plastic bag,265,165,393,293
+train_23.jpg,800,436,plastic bag,215,236,407,428
+train_23.jpg,800,436,plastic bag,460,139,480,159
+train_24.jpg,1499,1000,plastic bag,301,337,964,1000
+train_25.jpg,1295,862,luggage,327,303,696,809
+train_25.jpg,1295,862,luggage,669,123,893,552
+train_26.jpg,683,400,luggage,337,126,534,392
+train_26.jpg,683,400,shoulder bag,259,52,323,122
+train_27.jpg,1200,675,luggage,95,342,287,591
+train_27.jpg,1200,675,luggage,300,298,411,467
+train_27.jpg,1200,675,luggage,882,401,1150,673
+train_27.jpg,1200,675,luggage,1157,286,1200,455
+train_27.jpg,1200,675,shoulder bag,99,224,283,336
+train_27.jpg,1200,675,shoulder bag,291,222,416,293
+train_27.jpg,1200,675,shoulder bag,881,238,1154,397
+train_27.jpg,1200,675,shoulder bag,1163,149,1199,238
+train_28.jpg,860,600,luggage,159,363,301,566
+train_28.jpg,860,600,luggage,328,367,471,570
+train_29.jpg,512,341,luggage,118,163,206,297
+train_29.jpg,512,341,luggage,200,244,385,324
+train_29.jpg,512,341,luggage,343,164,454,298
+train_29.jpg,512,341,luggage,72,244,115,291
+train_3.jpg,800,600,luggage,1,379,79,476
+train_3.jpg,800,600,luggage,391,379,474,562
+train_3.jpg,800,600,luggage,665,379,744,565
+train_3.jpg,800,600,luggage,576,338,612,391
+train_3.jpg,800,600,luggage,683,319,704,379
+train_3.jpg,800,600,luggage,502,335,549,457
+train_3.jpg,800,600,backpack,1,335,55,393
+train_3.jpg,800,600,backpack,204,312,245,346
+train_3.jpg,800,600,backpack,297,317,361,416
+train_3.jpg,800,600,backpack,443,334,480,395
+train_3.jpg,800,600,backpack,528,315,553,346
+train_3.jpg,800,600,backpack,559,308,594,346
+train_3.jpg,800,600,backpack,408,310,439,358
+train_3.jpg,800,600,luggage,132,464,197,548
+train_3.jpg,800,600,shoulder bag,240,376,306,483
+train_3.jpg,800,600,shoulder bag,482,338,534,410
+train_3.jpg,800,600,bag,695,458,799,600
+train_30.jpg,1500,1000,luggage,161,362,705,957
+train_31.jpg,1200,628,luggage,546,121,762,560
+train_31.jpg,1200,628,luggage,941,67,1174,619
+train_32.jpg,1920,1080,luggage,256,20,776,1072
+train_32.jpg,1920,1080,luggage,1018,120,1347,941
+train_33.jpg,410,410,luggage,93,195,185,397
+train_33.jpg,410,410,luggage,226,159,307,400
+train_34.jpg,630,790,luggage,96,135,378,768
+train_35.jpeg,720,509,luggage,53,325,126,458
+train_35.jpeg,720,509,luggage,127,341,230,477
+train_35.jpeg,720,509,backpack,65,237,130,324
+train_35.jpeg,720,509,shoulder bag,126,250,234,333
+train_35.jpeg,720,509,shoulder bag,584,223,693,324
+train_36.jpg,1200,800,luggage,422,108,842,730
+train_37.jpg,1000,406,luggage,329,2,555,361
+train_38.jpg,900,600,luggage,432,65,790,588
+train_39.jpg,626,417,luggage,272,236,353,405
+train_39.jpg,626,417,mobile phone,399,65,417,95
+train_4.jpg,3264,2448,luggage,843,1518,1375,1724
+train_4.jpg,3264,2448,luggage,770,1705,1396,2100
+train_4.jpg,3264,2448,luggage,554,1153,720,1371
+train_4.jpg,3264,2448,luggage,59,1331,288,1584
+train_4.jpg,3264,2448,backpack,4,1387,138,1668
+train_4.jpg,3264,2448,backpack,64,1003,483,1563
+train_4.jpg,3264,2448,backpack,701,979,885,1205
+train_4.jpg,3264,2448,backpack,841,1271,1341,1574
+train_4.jpg,3264,2448,shoulder bag,1441,1137,1659,1576
+train_40.jpg,478,269,luggage,287,11,459,229
+train_41.jpg,630,420,luggage,203,56,332,391
+train_42.jpg,512,354,luggage,118,173,202,320
+train_43.jpg,590,346,luggage,30,79,102,244
+train_43.jpg,590,346,luggage,209,152,290,249
+train_43.jpg,590,346,luggage,404,128,464,256
+train_43.jpg,590,346,shoulder bag,74,13,165,97
+train_43.jpg,590,346,shoulder bag,220,93,300,162
+train_43.jpg,590,346,shoulder bag,440,84,484,149
+train_43.jpg,590,346,shoulder bag,554,62,590,101
+train_44.jpg,1920,1283,luggage,401,402,1023,1208
+train_44.jpg,1920,1283,luggage,1011,178,1523,1067
+train_44.jpg,1920,1283,luggage,1627,268,1919,1067
+train_44.jpg,1920,1283,mobile phone,611,16,701,49
+train_44.jpg,1920,1283,mobile phone,1533,2,1656,47
+train_45.jpg,720,360,luggage,236,3,406,329
+train_46.jpg,2100,2520,luggage,709,274,1813,2421
+train_47.jpg,1200,600,luggage,58,277,312,581
+train_47.jpg,1200,600,luggage,654,144,834,595
+train_48.jpg,768,432,luggage,133,167,249,415
+train_48.jpg,768,432,luggage,344,117,478,419
+train_49.jpg,1440,1920,luggage,310,1018,898,1910
+train_5.jpg,1300,1065,luggage,989,754,1300,1065
+train_5.jpg,1300,1065,shoulder bag,948,596,1203,851
+train_5.jpg,1300,1065,luggage,650,646,975,971
+train_5.jpg,1300,1065,shoulder bag,691,463,924,696
+train_5.jpg,1300,1065,shoulder bag,578,340,849,611
+train_5.jpg,1300,1065,luggage,354,555,669,870
+train_5.jpg,1300,1065,backpack,296,283,514,501
+train_5.jpg,1300,1065,shoulder bag,244,627,437,820
+train_5.jpg,1300,1065,luggage,143,489,358,704
+train_5.jpg,1300,1065,backpack,90,374,229,513
+train_50.jpg,800,1200,luggage,129,563,533,1136
+train_51.jpg,744,558,luggage,150,264,337,466
+train_51.jpg,744,558,luggage,337,260,515,470
+train_52.png,580,326,luggage,275,53,381,258
+train_52.png,580,326,luggage,370,62,490,237
+train_53.jpg,900,900,luggage,274,337,675,796
+train_54.jpg,409,409,luggage,104,239,264,306
+train_54.jpg,409,409,luggage,80,302,281,384
+train_55.jpg,801,1200,luggage,94,451,754,945
+train_56.jpg,801,1200,luggage,261,809,401,1087
+train_57.jpg,1067,1600,luggage,215,775,510,1365
+train_58.jpg,1600,1067,luggage,845,44,1160,746
+train_59.jpg,680,510,luggage,7,122,247,472
+train_59.jpg,680,510,luggage,406,105,663,489
+train_6.jpg,1820,1214,luggage,230,357,726,853
+train_6.jpg,1820,1214,luggage,737,406,1393,1062
+train_6.jpg,1820,1214,shoulder bag,682,339,867,524
+train_6.jpg,1820,1214,backpack,1617,487,1820,689
+train_60.jpg,1778,994,luggage,721,82,1330,994
+train_61.jpg,1600,999,luggage,227,221,721,965
+train_61.jpg,1600,999,luggage,732,110,1322,973
+train_62.jpg,1024,768,luggage,36,268,233,547
+train_62.jpg,1024,768,luggage,345,199,690,759
+train_63.jpg,512,298,luggage,204,85,327,226
+train_63.jpg,512,298,shoulder bag,69,48,146,111
+train_64.jpg,460,385,luggage,105,120,304,356
+train_65.jpg,351,485,luggage,96,112,320,448
+train_66.jpg,1300,1000,luggage,82,278,385,675
+train_66.jpg,1300,1000,mobile phone,839,96,935,165
+train_67.jpg,1000,750,luggage,312,286,592,740
+train_68.jpg,474,370,luggage,94,138,225,363
+train_69.jpg,300,300,luggage,32,47,172,295
+train_7.jpg,415,233,shoulder bag,131,127,185,181
+train_7.jpg,415,233,shoulder bag,230,96,286,152
+train_7.jpg,415,233,luggage,178,132,279,233
+train_7.jpg,415,233,luggage,271,135,369,233
+train_70.jpg,1280,720,luggage,600,262,884,702
+train_71.jpg,1105,1105,luggage,516,445,862,1060
+train_72.jpg,1280,720,luggage,558,498,695,700
+train_73.jpg,1200,630,luggage,554,402,682,630
+train_74.jpg,720,720,luggage,201,398,327,655
+train_74.jpg,720,720,backpack,280,186,407,360
+train_75.jpg,1000,1400,backpack,216,271,953,1146
+train_76.jpg,554,561,backpack,121,164,356,461
+train_77.jpg,512,512,backpack,88,86,282,402
+train_78.jpg,600,600,backpack,168,47,475,511
+train_79.jpg,600,600,backpack,205,85,400,391
+train_8.jpg,2100,1181,backpack,145,480,427,762
+train_8.jpg,2100,1181,shoulder bag,422,746,670,994
+train_8.jpg,2100,1181,shoulder bag,1732,700,1955,923
+train_8.jpg,2100,1181,luggage,1605,667,2053,1115
+train_80.jpg,600,600,backpack,121,35,381,517
+train_81.jpg,417,480,backpack,103,33,303,391
+train_82.jpg,850,850,backpack,237,78,649,749
+train_83.jpg,640,640,backpack,178,37,525,629
+train_84.jpg,767,767,backpack,233,74,616,740
+train_85.jpg,1024,1024,backpack,366,241,818,930
+train_86.jpg,700,700,backpack,219,34,547,505
+train_87.jpg,550,550,backpack,101,71,373,486
+train_88.jpg,600,600,backpack,105,57,408,484
+train_89.jpg,665,678,backpack,129,152,397,435
+train_9.jpg,300,168,shoulder bag,199,37,276,114
+train_9.jpg,300,168,luggage,171,91,231,151
+train_90.jpg,400,400,backpack,18,32,287,385
+train_91.jpg,203,248,backpack,9,15,133,225
+train_92.jpg,384,512,backpack,31,73,242,483
+train_93.jpg,700,538,backpack,83,161,251,534
+train_93.jpg,700,538,backpack,501,118,605,410
+train_94.jpg,695,535,backpack,312,145,477,428
+train_95.jpg,1000,1500,backpack,241,318,589,738
+train_96.jpg,735,1103,backpack,317,104,700,861
+train_97.jpg,680,481,backpack,462,152,627,452
+train_98.jpg,1600,900,backpack,569,375,924,873
+train_98.jpg,1600,900,backpack,886,166,1195,755
+train_99.jpg,441,600,backpack,124,194,317,450
+train_99.jpg,441,600,mobile phone,315,526,376,579

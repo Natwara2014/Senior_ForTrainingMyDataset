@@ -1,0 +1,138 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+test_1.jpg,640,480,luggage,475,368,548,466
+test_1.jpg,640,480,luggage,428,355,510,410
+test_1.jpg,640,480,luggage,344,297,375,330
+test_1.jpg,640,480,luggage,487,308,519,360
+test_1.jpg,640,480,luggage,533,293,579,342
+test_1.jpg,640,480,backpack,238,276,255,293
+test_1.jpg,640,480,backpack,331,265,348,288
+test_1.jpg,640,480,luggage,380,281,400,314
+test_1.jpg,640,480,luggage,431,302,486,340
+test_1.jpg,640,480,luggage,290,284,317,316
+test_1.jpg,640,480,mobile phone,610,305,626,317
+test_1.jpg,640,480,plastic bag,445,334,491,360
+test_1.jpg,640,480,backpack,334,266,346,287
+test_10.jpg,1200,1200,backpack,95,102,1032,1039
+Test_11.jpg,600,600,backpack,68,150,518,600
+test_12.jpg,1200,1739,backpack,251,363,1143,1255
+test_13.jpg,283,178,plastic bag,155,31,283,159
+test_13.jpg,283,178,plastic bag,1,41,135,176
+test_14.jpg,275,183,plastic bag,11,43,141,173
+test_14.jpg,275,183,plastic bag,152,32,275,154
+test_15.jpg,275,183,plastic bag,52,56,178,183
+test_16.jpg,626,417,luggage,116,230,204,374
+test_17.jpg,626,417,luggage,152,293,224,372
+test_17.jpg,626,417,shoulder bag,197,246,265,293
+test_17.jpg,626,417,mobile phone,324,86,335,107
+test_18.jpg,1024,683,luggage,1,18,195,255
+test_18.jpg,1024,683,luggage,313,23,477,241
+test_18.jpg,1024,683,luggage,608,23,775,271
+test_18.jpg,1024,683,luggage,3,603,197,681
+test_18.jpg,1024,683,luggage,281,562,346,679
+test_18.jpg,1024,683,luggage,635,499,829,683
+test_19.jpg,1498,1000,luggage,153,50,368,330
+test_19.jpg,1498,1000,luggage,512,57,692,328
+test_19.jpg,1498,1000,luggage,856,63,1047,265
+test_19.jpg,1498,1000,luggage,231,743,319,998
+test_19.jpg,1498,1000,luggage,536,687,610,1000
+test_2.jpg,1477,985,backpack,475,393,565,547
+test_2.jpg,1477,985,backpack,217,371,333,523
+test_2.jpg,1477,985,backpack,95,557,306,841
+test_2.jpg,1477,985,backpack,352,586,508,888
+test_2.jpg,1477,985,luggage,612,729,814,881
+test_2.jpg,1477,985,luggage,677,676,905,792
+test_2.jpg,1477,985,luggage,623,777,927,909
+test_2.jpg,1477,985,shoulder bag,921,432,1041,643
+test_2.jpg,1477,985,shoulder bag,1126,701,1477,916
+test_2.jpg,1477,985,plastic bag,2,487,114,632
+test_2.jpg,1477,985,luggage,325,549,433,624
+test_2.jpg,1477,985,luggage,584,518,792,642
+test_20.jpg,665,532,luggage,376,54,645,518
+test_21.jpg,1500,1516,luggage,53,148,814,1437
+test_22.jpg,937,1200,luggage,118,738,366,1131
+test_22.jpg,937,1200,luggage,475,791,738,1163
+test_22.jpg,937,1200,luggage,558,618,900,1113
+test_23.jpg,944,1080,luggage,262,608,462,953
+test_23.jpg,944,1080,luggage,505,658,743,977
+test_24.jpg,1067,1068,luggage,342,655,623,1011
+test_25.jpg,800,1200,luggage,448,838,635,1103
+test_26.jpg,2119,1414,backpack,1586,679,1986,1402
+test_27.jpg,838,559,backpack,80,203,260,464
+test_27.jpg,838,559,backpack,341,191,528,454
+test_27.jpg,838,559,backpack,638,178,819,448
+test_28.jpg,300,300,backpack,106,120,199,264
+test_29.jpg,600,400,backpack,183,86,341,356
+test_29.jpg,600,400,backpack,51,161,82,217
+test_29.jpg,600,400,luggage,538,143,564,175
+test_29.jpg,600,400,plastic bag,338,159,370,216
+test_29.jpg,600,400,backpack,335,113,351,136
+test_29.jpg,600,400,shoulder bag,76,120,90,142
+test_3.jpg,259,194,luggage,1,31,149,180
+test_3.jpg,259,194,luggage,40,5,210,175
+test_3.jpg,259,194,luggage,95,7,259,171
+test_30.jpg,1000,1250,backpack,297,473,517,750
+test_31.jpg,1024,768,backpack,8,367,225,656
+test_31.jpg,1024,768,backpack,282,281,508,606
+test_31.jpg,1024,768,backpack,509,202,737,523
+test_31.jpg,1024,768,backpack,778,152,1024,511
+test_32.jpg,1200,800,backpack,19,315,196,536
+test_32.jpg,1200,800,backpack,276,300,444,540
+test_32.jpg,1200,800,backpack,502,279,670,481
+test_32.jpg,1200,800,backpack,741,236,913,468
+test_32.jpg,1200,800,backpack,985,276,1152,486
+test_33.jpg,384,512,backpack,118,143,240,334
+test_33.jpg,384,512,shoulder bag,231,315,301,469
+test_33.jpg,384,512,plastic bag,261,197,280,220
+test_33.jpg,384,512,backpack,369,177,384,202
+test_33.jpg,384,512,backpack,42,176,61,200
+test_33.jpg,384,512,backpack,328,188,342,207
+test_34.JPG,1600,1067,backpack,65,304,233,555
+test_34.JPG,1600,1067,backpack,292,275,468,533
+test_34.JPG,1600,1067,backpack,508,295,676,557
+test_34.JPG,1600,1067,backpack,725,265,892,532
+test_34.JPG,1600,1067,backpack,939,301,1108,549
+test_34.JPG,1600,1067,backpack,1135,358,1288,601
+test_34.JPG,1600,1067,backpack,1331,311,1488,553
+test_35.jpg,950,534,backpack,245,195,354,342
+test_35.jpg,950,534,backpack,390,141,470,277
+test_35.jpg,950,534,backpack,463,203,561,327
+test_35.jpg,950,534,backpack,564,176,662,297
+test_35.jpg,950,534,shoulder bag,755,128,816,323
+test_36.jpg,720,480,luggage,20,155,44,213
+test_36.jpg,720,480,luggage,31,304,130,381
+test_36.jpg,720,480,luggage,23,294,153,391
+test_36.jpg,720,480,luggage,186,308,288,372
+test_36.jpg,720,480,luggage,167,280,318,379
+test_36.jpg,720,480,luggage,478,283,545,422
+test_36.jpg,720,480,luggage,495,264,567,480
+test_36.jpg,720,480,luggage,639,275,718,480
+test_36.jpg,720,480,luggage,655,185,693,233
+test_36.jpg,720,480,luggage,693,194,720,233
+test_36.jpg,720,480,shoulder bag,299,143,348,253
+test_36.jpg,720,480,shoulder bag,368,151,413,244
+test_36.jpg,720,480,shoulder bag,486,233,511,297
+test_36.jpg,720,480,shoulder bag,564,258,633,342
+test_36.jpg,720,480,luggage,148,185,174,211
+test_36.jpg,720,480,luggage,388,148,422,185
+test_36.jpg,720,480,luggage,537,133,555,173
+test_37.jpg,1024,717,shoulder bag,403,167,577,604
+test_38.jpg,867,1390,shoulder bag,414,508,859,1312
+test_39.jpg,1300,957,backpack,692,268,1018,869
+test_4.jpg,226,223,luggage,13,12,215,214
+test_40.jpg,500,333,shoulder bag,208,145,373,320
+test_41.jpg,142,200,shoulder bag,10,92,43,154
+test_41.jpg,142,200,shoulder bag,67,115,101,155
+test_41.jpg,142,200,shoulder bag,101,119,130,161
+test_42.jpg,259,194,shoulder bag,53,121,96,181
+test_42.jpg,259,194,shoulder bag,109,118,151,149
+test_42.jpg,259,194,shoulder bag,194,139,233,185
+test_43.jpg,720,960,luggage,168,420,348,881
+test_43.jpg,720,960,shoulder bag,417,371,545,635
+test_44.jpg,1200,1800,shoulder bag,1,663,497,1686
+test_45.jpg,700,466,shoulder bag,222,109,460,466
+test_45.jpg,700,466,shoulder bag,441,150,630,455
+test_5.jpg,225,225,luggage,26,16,212,202
+test_6.jpg,1040,1040,shoulder bag,114,41,1040,966
+test_7.jpg,275,183,shoulder bag,59,14,192,147
+test_8.jpg,225,225,shoulder bag,16,10,202,196
+test_9.jpg,239,211,shoulder bag,13,12,209,208
