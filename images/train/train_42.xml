@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>train_42.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\train_42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>luggage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>173</ymin>
+			<xmax>202</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>
